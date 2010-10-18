@@ -1,0 +1,9 @@
+RapidGateway
+
+* HttpSender.java
+Send SMS to Eflyer API,
+specify the username (email), password and the URL of the API to send messages
+
+* SMS.java
+To notify the application is active,
+You must specify the API URL (line 217)
